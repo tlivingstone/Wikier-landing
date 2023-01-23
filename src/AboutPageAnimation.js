@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./aboutPageAnimation.css";
-import { BUBBLES, SCROLL_SPEED } from "./constants";
+import { BUBBLES, SCROLL_SPEED } from "./BubbleData";
 
 const CANVAS_WIDTH = window.innerWidth;
 
