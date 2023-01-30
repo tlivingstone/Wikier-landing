@@ -3,11 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import SignupFirst from './Signup1';
+import SignupSecond from './Signup2';
+import SignupThird from './Signup3';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <SignupFirst />
+    <SignupSecond />
+    <SignupThird />
   </React.StrictMode>
 );
 
