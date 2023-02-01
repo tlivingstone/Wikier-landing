@@ -7,13 +7,13 @@ exports.BUBBLES = [
     },
     {
         x: "1200",
-        y: "150",
+        y: "80",
         content: "Dark",
         color: "blue"
       },
     {
         x: "1000",
-        y: "150",
+        y: "80",
         content: "Dexter",
         color: "blue"
     },
@@ -61,7 +61,7 @@ exports.BUBBLES = [
     },
     {
       x: "160",
-      y: "110",
+      y: "80",
       content: "Better Call Saul",
       color: "green"
     },
@@ -79,7 +79,7 @@ exports.BUBBLES = [
     },
     {
       x: "400",
-      y: "100",
+      y: "80",
       content: "Agents of Shield",
       color: "blue"
     },
